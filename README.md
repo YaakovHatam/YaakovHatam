@@ -1,5 +1,6 @@
-### 🖐️ 🌍
+🖐️ 🌍
 ## `Software` is not just a profession, but a way of life. We all live in `Framwork`, in a world of `Multi tasking`
+Let the `Agile` lead us, so that we reach new heights
 <!--
 **YaakovHatam/YaakovHatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
