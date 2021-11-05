@@ -1,6 +1,5 @@
 ### 🖐️ 🌍
-`Software` is not just a profession, but a way of life.
-We all live in `Framwork`, in a world of `Multi tasking`
+## `Software` is not just a profession, but a way of life. We all live in `Framwork`, in a world of `Multi tasking`
 <!--
 **YaakovHatam/YaakovHatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
